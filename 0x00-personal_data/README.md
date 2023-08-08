@@ -1,1 +1,1 @@
-back end user data
+In this project we enhance personal data security through various Python functionalities. It includes data filtering, logging, password encryption, and database connection management. The tasks involve implementing regex-based obfuscation, custom log formatting, secure database access, and bcrypt-based password hashing. The goal is to ensure the protection of sensitive information while improving code organization and security practices.

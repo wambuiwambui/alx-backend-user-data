@@ -1,0 +1,11 @@
+import logging
+
+"""configer our loggin"""
+logging.basicConfig(level=logging.INFO, filename="log.log", filemode="w",
+                    format="%(asctime)s - %(levelname)s -%(message)s")
+
+logging.info(f"value of x is {2}")
+logging.info("info")
+logging.warning("warning")
+logging.error("error")
+logging.critical("critical")
