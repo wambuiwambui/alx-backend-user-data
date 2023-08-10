@@ -1,0 +1,1 @@
+In this project, we build a Session Authentication system from scratch, focusing on understanding its concepts. Create a SessionAuth class that validates user sessions, switching between authentication types using environment variables. Extend the Basic Authentication project, add a GET /users/me endpoint, and update routes for authenticated users.
